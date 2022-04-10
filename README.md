@@ -2,6 +2,6 @@
 # project1-2021
 1.在命令行输入python manager.py runserver
 
-2.在本地访问http://127:0.0.1:8000
+2.在本地访问http://127.0.0.1:8000
 
 3.查看相关内容
